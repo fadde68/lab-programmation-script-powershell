@@ -28,4 +28,5 @@
 # Appel de la fonction
 Stagiaire Toronto 35
 Stagiaire "Pascal Siakam" 26  -verbose
+Get-Help Stagiaire
 
